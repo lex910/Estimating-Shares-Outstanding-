@@ -1,5 +1,5 @@
 # Estimating-Shares-Outstanding-
-Using random forest and decision trees for variable selection in estimating shares outstanding 
+Comparing random forest and lasso regression in estimating shares outstanding 
 
 -using 74 variables from the "fundamentals" dataset
 
